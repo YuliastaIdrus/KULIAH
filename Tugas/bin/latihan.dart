@@ -60,3 +60,26 @@
 //     }
 
 // }
+
+// switch case
+//looping: for,while, do while
+void main(){
+
+    // int nilai = 1;
+
+    // switch(nilai){
+    //     case 1:
+    //     print("Senin");
+    //     break;
+    // }
+
+    // for (int i = 1; i <= 10; i+=3){
+    //     print(i);
+    // }
+    // try{
+    // int number = 10 ~/ 0;
+    // print (number);
+    // } catch (e){
+    //     print("Terjadi error: $e");
+    // }
+}
