@@ -13,3 +13,5 @@ void main() {
   print("Luas = ${luas.toInt()}");
   print("Keliling = ${keliling.toInt()}");
 }
+
+ 
